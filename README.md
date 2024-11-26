@@ -4,7 +4,7 @@
 
 Latest Projects
 
-Languages and tools
+## Languages and tools
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=2F74C0)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=FFF)
 ![Prisma](https://img.shields.io/badge/Prisma-FFF?style=for-the-badge&logo=prisma&logoColor=3B647B)
