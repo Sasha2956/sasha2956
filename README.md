@@ -1,8 +1,7 @@
 ![Header](https://github.com/Sasha2956/sasha2956/blob/main/assets/banner.png)
 
 ## I'm a beginner Fullstack developer
-
-Latest Projects
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sasha2956)](https://github.com/anuraghazra/github-readme-stats&show-icons=true)
 
 ## Languages and tools
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=2F74C0)
